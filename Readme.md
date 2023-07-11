@@ -1,5 +1,3 @@
-Sure, here's a full documentation for the Continuous Integration Pipeline for Java Web Application with Jenkins and Terraform project.
-
 ## Overview
 
 This project aims to set up a continuous integration pipeline for a Java web application using Jenkins and Terraform. The pipeline automates the build, test, and deployment process, including running unit tests, integration tests, and deploying to a staging environment. The Terraform code creates an EC2 instance with a security group and key pair, and provisions it with Jenkins. The Jenkins code defines a pipeline that builds, tests, and deploys the Java web application. By automating the development process, this project streamlines the development workflow and ensures consistent and reliable results.
