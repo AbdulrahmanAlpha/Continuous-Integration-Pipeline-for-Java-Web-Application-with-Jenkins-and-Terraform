@@ -144,4 +144,4 @@ This Jenkins code defines a pipeline with four stages: "Build", "Unit Test", "In
 
 ## Conclusion
 
-By setting up a continuous integration pipeline for your Java web application using Jenkins and Terraform, you can automate the build, test, and deployment process, ensuring consistent and reliable results. The Terraform code creates an EC2 instance with a security group and key pair, and provisions it with Jenkins. The Jenkins code defines a pipeline that builds, tests, and deploys the Java web application. With this pipeline in place, you can focus on developing your application and trust that the pipeline will handle the rest.   
+By setting up a continuous integration pipeline for your Java web application using Jenkins and Terraform, you can automate the build, test, and deployment process, ensuring consistent and reliable results. The Terraform code creates an EC2 instance with a security group and key pair, and provisions it with Jenkins. The Jenkins code defines a pipeline that builds, tests, and deploys the Java web application. With this pipeline in place, you can focus on developing your application and trust that the pipeline will handle the rest.
